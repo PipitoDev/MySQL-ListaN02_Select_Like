@@ -1,2 +1,2 @@
 SELECT * FROM Customers
-ORDER BY CustomerID DESC;
+ORDER BY CustomerID ASC;
